@@ -1,1 +1,4 @@
-# Data Flow Diagram\n\nThis directory contains the DFD for the Airbnb Clone project backend.\n
+# Data Flow Diagram
+
+This folder contains the Data Flow Diagram (DFD) for the Airbnb Clone backend.
+The diagram illustrates how data moves between Users, Properties, Bookings, Payments, and Reviews.
